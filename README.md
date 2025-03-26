@@ -5,6 +5,6 @@
 > 개발 기간: 2025.03.27 ~ 진행중
 
 # Repository
-[프론트 레포지토리 - 준비중]()
+[프론트 - 준비중]()
 
-[백엔드 레포지토리 - 개발중](https://github.com/Joo-v7/chokchok-backend)
+[백엔드 - 개발중](https://github.com/Joo-v7/chokchok-backend)
