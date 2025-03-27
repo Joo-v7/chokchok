@@ -3,6 +3,8 @@
 > 1인 프로젝트
 > 
 > 개발 기간: 2025.03.27 ~ 진행중
+>
+> 기술 스택: React, Spring Boot 3.4.4, MySQL 9.2.0, Nginx, AWS EC2
 
 # Repository
 [프론트 - 준비중]()
