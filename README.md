@@ -8,9 +8,13 @@
 >
 
 ## Repository
-[프론트 - 준비중]()
+[Front](https://github.com/Joo-v7/chokchok-front)
 
-[백엔드 - 개발중](https://github.com/Joo-v7/chokchok-backend)
+[Gateway](https://github.com/Joo-v7/gateway)
+
+[Account](https://github.com/Joo-v7/account)
+
+[API](https://github.com/Joo-v7/chokchok-api)
 
 ## WBS
 [구글 스프레드시트 링크](https://docs.google.com/spreadsheets/d/15tp6md72q8NURvAgSezNRi1rH6H4bjVt4OmPx1WsYUg/edit?usp=sharing)
