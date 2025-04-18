@@ -4,7 +4,7 @@
 > 
 > 개발 기간: 2025.04.01 ~ 2025.05.31
 >
-> 기술 스택: React, Spring Boot 3.4.4, MySQL 9.2.0, Nginx, AWS EC2
+> 기술 스택: Spring Boot 3.4.4, MySQL 9.2.0, Nginx, AWS EC2, ThymeLeaf
 >
 
 ## Repository
