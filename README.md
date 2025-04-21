@@ -13,11 +13,13 @@
 ## Repository
 [Front](https://github.com/Joo-v7/chokchok-front)
 
-[Gateway](https://github.com/Joo-v7/gateway)
+[API](https://github.com/Joo-v7/chokchok-api)
 
 [Account](https://github.com/Joo-v7/account)
 
-[API](https://github.com/Joo-v7/chokchok-api)
+[Gateway](https://github.com/Joo-v7/gateway)
+
+[Eureka](https://github.com/Joo-v7/eureka)
 
 ## WBS
 [구글 스프레드시트 링크](https://docs.google.com/spreadsheets/d/15tp6md72q8NURvAgSezNRi1rH6H4bjVt4OmPx1WsYUg/edit?usp=sharing)
