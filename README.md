@@ -21,6 +21,39 @@
 
 [Eureka](https://github.com/Joo-v7/eureka)
 
+<table>
+  <tr>
+    <th>Server Name</th>
+    <th>Prod</th>
+    <th>Dev</th>
+  </tr>
+  <tr>
+    <td>Front</td>
+    <td>8080, 8090</td>
+    <td>9080, 9090</td>
+  </tr>
+  <tr>
+    <td>API</td>
+    <td>8200, 8300</td>
+    <td>9200, 9300</td>
+  </tr>
+  <tr>
+    <td>Account</td>
+    <td>8100</td>
+    <td>9100</td>
+  </tr>
+  <tr>
+    <td>Gateway</td>
+    <td>8000</td>
+    <td>9000</td>
+  </tr>
+  <tr>
+    <td>Eureka</td>
+    <td>8761, 8762</td>
+    <td>8761, 8762</td>
+  </tr>
+</table>
+
 ## WBS
 [구글 스프레드시트 링크](https://docs.google.com/spreadsheets/d/15tp6md72q8NURvAgSezNRi1rH6H4bjVt4OmPx1WsYUg/edit?usp=sharing)
 
