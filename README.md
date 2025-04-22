@@ -59,7 +59,7 @@
 
 
 ## System Architecture
-![chokchok2 drawio](https://github.com/user-attachments/assets/b658aa13-c4c1-4abe-bfc2-77e446de99e6)
+![chokchok3 drawio](https://github.com/user-attachments/assets/e31edf23-eb4a-49b2-85ec-acfba2ae6304)
 
 
 
