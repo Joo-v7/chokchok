@@ -59,7 +59,8 @@
 
 
 ## System Architecture
-![chokchok drawio](https://github.com/user-attachments/assets/2183fff6-b0bf-4567-95a4-e29ac95ea6c0)
+![chokchok2 drawio](https://github.com/user-attachments/assets/b658aa13-c4c1-4abe-bfc2-77e446de99e6)
+
 
 
 ## CI/CD
