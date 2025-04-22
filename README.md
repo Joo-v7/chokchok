@@ -49,8 +49,8 @@
   </tr>
   <tr>
     <td>Eureka</td>
-    <td>8761, 8762</td>
-    <td>8761, 8762</td>
+    <td>8761</td>
+    <td>8761</td>
   </tr>
 </table>
 
