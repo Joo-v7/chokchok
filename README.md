@@ -15,7 +15,7 @@
 
 [API](https://github.com/Joo-v7/chokchok-api)
 
-[Account](https://github.com/Joo-v7/account)
+[Auth](https://github.com/Joo-v7/auth)
 
 [Gateway](https://github.com/Joo-v7/gateway)
 
