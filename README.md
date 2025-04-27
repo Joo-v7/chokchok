@@ -11,11 +11,11 @@
 >
 
 ## Repository
-[Front](https://github.com/Joo-v7/chokchok-front)
+[Front - 프론트 서버](https://github.com/Joo-v7/chokchok-front)
 
-[API](https://github.com/Joo-v7/chokchok-api)
+[API - 백엔드 서버](https://github.com/Joo-v7/chokchok-api)
 
-[Auth](https://github.com/Joo-v7/auth)
+[Auth - 인증 서버](https://github.com/Joo-v7/auth)
 
 [Gateway](https://github.com/Joo-v7/gateway)
 
