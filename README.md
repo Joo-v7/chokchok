@@ -61,9 +61,10 @@
 ## System Architecture
 ![chokchok3 drawio](https://github.com/user-attachments/assets/e31edf23-eb4a-49b2-85ec-acfba2ae6304)
 
-
-
 ## CI/CD
+
+## ERD
+[ERDCLOUD](https://www.erdcloud.com/d/y4gXFxSr8BrWy3sFx)
 
 ## Tech Stack
 
