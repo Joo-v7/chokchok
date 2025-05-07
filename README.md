@@ -45,7 +45,7 @@
   <tr>
     <td>Gateway</td>
     <td>8000</td>
-    <td>9000</td>
+    <td>8000</td>
   </tr>
   <tr>
     <td>Eureka</td>
