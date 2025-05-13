@@ -4,7 +4,7 @@
 촉촉 주소: [**https://chokchok.site**](https://www.chokchok.site/)
 
 > 1인 프로젝트
-> 
+>  
 > 개발 기간: 2025.04.01 ~ 2025.05.31
 >
 > 기술 스택: Spring Boot 3.4.4, MySQL 9.2.0, Redis, Nginx, AWS EC2, ThymeLeaf, Open Feign
