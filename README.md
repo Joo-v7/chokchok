@@ -9,7 +9,7 @@
 >
 > 기술 스택: Spring Boot 3.4.4, MySQL 9.2.0, Redis, Nginx, AWS EC2, ThymeLeaf 
 >
-
+  
 ## Repository
 [Front - 프론트 서버](https://github.com/Joo-v7/chokchok-front)
 
