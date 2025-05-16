@@ -3,7 +3,7 @@
 
 촉촉 주소: [**https://chokchok.site**](https://www.chokchok.site/)
 
-> 1인 프로젝트
+> 1인 프로젝트 
 >  
 > 개발 기간: 2025.04.01 ~ 2025.05.31
 >
